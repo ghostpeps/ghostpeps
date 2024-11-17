@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ghostpeps
 - 👀 I’m interested in math, basketball, and coding
 - 🌱 I’m currently learning basketball and code
-- 💞️ I’m looking to collaborate on python
+- 💞️ I’m looking to collaborate on python and HTML
 - 📫 How to reach me ‭(949) 293-7942‬ or bhavish.chinamalli@gmail.com
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I play basketball for a club team
